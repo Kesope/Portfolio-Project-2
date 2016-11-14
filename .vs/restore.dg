@@ -1,0 +1,7 @@
+#:C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\DatabaseService\DatabaseService.xproj
+C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\DatabaseService\DatabaseService.xproj|C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\DomainModel\DomainModel.xproj
+#:C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\WebApi\WebApi.xproj
+C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\WebApi\WebApi.xproj|C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\DatabaseService\DatabaseService.xproj
+C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\WebApi\WebApi.xproj|C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\DomainModel\DomainModel.xproj
+C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\DatabaseService\DatabaseService.xproj|C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\DomainModel\DomainModel.xproj
+#:C:\Users\Kevin Petersen\Desktop\RAWDATA2016E_LiveCode7-master\src\DomainModel\DomainModel.xproj
